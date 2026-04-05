@@ -4,7 +4,8 @@
 
 Lumen Graph runs entirely in your browser as a single HTML file — no installation, no server, no dependencies. Open it and start mapping.
 
-![Lumen Graph](docs/screenshot.png)
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/0637f87f-abd9-40d5-8e04-6f948a7a52b8" />
+
 
 ---
 
