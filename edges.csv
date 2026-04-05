@@ -1,0 +1,6 @@
+source,target,label
+185.220.101.47,evil-c2.net,resolves-to
+evil-c2.net,attacker@proton.me,registered-by
+attacker@proton.me,John Doe,belongs-to
+John Doe,Shadow Corp Ltd,member-of
+Shadow Corp Ltd,185.220.101.47,operates

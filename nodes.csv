@@ -1,0 +1,6 @@
+label,type,notes,source,date,score,tlp
+185.220.101.47,IP,Tor exit node seen in honeypot traffic,Shodan,2024-11-01,8,RED
+evil-c2.net,Domain,C2 domain registered via privacy proxy 48h before first contact,WHOIS,2024-11-03,7,AMBER
+attacker@proton.me,Email,Registrant email found in WHOIS record,WHOIS,2024-11-03,6,AMBER
+John Doe,Person,Linked via forum post and WHOIS registrant name,OSINT,2024-11-06,5,AMBER
+Shadow Corp Ltd,Org,Offshore company — registered jurisdiction mismatch,Company registry,2024-10-28,7,AMBER
