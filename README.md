@@ -1,3 +1,5 @@
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/d8de5ca8-6cea-4419-9a9a-99ac47499609" />
+
 # Lumen Graph
 
 **A self-contained OSINT and threat intelligence graph editor for investigators.**
